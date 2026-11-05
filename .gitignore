@@ -5,13 +5,10 @@
 .DS_Store
 /build/
 /app/build/
-/captures/
-.externalNativeBuild/
-.cxx/
-.kotlin/
-/outputs/
 *.apk
 *.aab
 *.jks
 *.keystore
-keystore.properties
+captures/
+.externalNativeBuild/
+.cxx/
